@@ -1,0 +1,2 @@
+# Chronomancy
+Flexible, elegant timer
